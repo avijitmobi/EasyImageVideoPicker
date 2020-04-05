@@ -1,0 +1,16 @@
+PODS:
+  - EasyImageVideoPicker (0.1.0)
+
+DEPENDENCIES:
+  - EasyImageVideoPicker (from `../`)
+
+EXTERNAL SOURCES:
+  EasyImageVideoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EasyImageVideoPicker: 79bed790c0e168907415a01623b82c57450ed1d1
+
+PODFILE CHECKSUM: 4723731f0993ccf096eb0cdb4c23df7cd05623ad
+
+COCOAPODS: 1.8.4

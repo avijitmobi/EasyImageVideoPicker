@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+This will run on iOS 12.0 and above devices.
+
 ## Installation
 
 EasyImageVideoPicker is available through [CocoaPods](https://cocoapods.org). To install
@@ -22,7 +24,7 @@ pod 'EasyImageVideoPicker'
 
 ## Author
 
-Avijit Mondal, avijit.m@convergentinfoware.com
+Avijit Babu, avijitmobi@gmail.com
 
 ## License
 

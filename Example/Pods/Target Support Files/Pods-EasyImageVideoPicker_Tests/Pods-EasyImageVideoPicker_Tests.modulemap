@@ -1,0 +1,6 @@
+framework module Pods_EasyImageVideoPicker_Tests {
+  umbrella header "Pods-EasyImageVideoPicker_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
