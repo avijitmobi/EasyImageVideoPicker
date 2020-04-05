@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		12388FA18DD978E70677F8DE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		12D95B9FCF89C967F32A458D /* EasyImageVideoPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EasyImageVideoPicker.podspec; path = ../EasyImageVideoPicker.podspec; sourceTree = "<group>"; };
+		12D95B9FCF89C967F32A458D /* EasyImageVideoPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EasyImageVideoPicker.podspec; path = ../EasyImageVideoPicker.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		20CA10EE0FF07178A427B914 /* Pods_EasyImageVideoPicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EasyImageVideoPicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		51DF1780F93CF73DBE350094 /* Pods-EasyImageVideoPicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EasyImageVideoPicker_Tests.debug.xcconfig"; path = "Target Support Files/Pods-EasyImageVideoPicker_Tests/Pods-EasyImageVideoPicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* EasyImageVideoPicker_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyImageVideoPicker_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
