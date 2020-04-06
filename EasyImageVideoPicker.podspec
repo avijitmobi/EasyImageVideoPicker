@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EasyImageVideoPicker'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'EasyImageVideoPicker is the easy and simple image and video picker from your device'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Avijit Babu' => 'avijitmobi@gmail.com' }
-  s.source           = { :git => 'https://github.com/avijitmobi/EasyImageVideoPicker.git', :tag => '#{s.version}'}
+  s.source           = { :git => 'https://github.com/avijitmobi/EasyImageVideoPicker.git', :tag => 'v0.1.1'}
   s.social_media_url = 'https://twitter.com/avijitmobis'
   s.swift_version = '5.0'
   s.ios.deployment_target  = '12.0'
