@@ -1,3 +1,10 @@
+<p align="center">
+<img src='https://github.com/rebeloper/DuckUI/blob/master/Example/DuckUI/Images.xcassets/icon.imageset/icon.png' width="200" />
+<img src='https://github.com/rebeloper/DuckUI/blob/master/Example/DuckUI/Images.xcassets/icon.imageset/icon.png' width="200" />
+<img src='https://github.com/rebeloper/DuckUI/blob/master/Example/DuckUI/Images.xcassets/icon.imageset/icon.png' width="200" />
+</p>
+
+
 # EasyImageVideoPicker
 
 [![CI Status](https://img.shields.io/travis/avijitmobi/EasyImageVideoPicker.svg?style=flat)](https://travis-ci.org/avijitmobi/EasyImageVideoPicker)
