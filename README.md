@@ -1,7 +1,7 @@
 <p align="center">
-<img src='https://github.com/rebeloper/DuckUI/blob/master/Example/DuckUI/Images.xcassets/icon.imageset/icon.png' width="200" />
-<img src='https://github.com/rebeloper/DuckUI/blob/master/Example/DuckUI/Images.xcassets/icon.imageset/icon.png' width="200" />
-<img src='https://github.com/rebeloper/DuckUI/blob/master/Example/DuckUI/Images.xcassets/icon.imageset/icon.png' width="200" />
+<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/1.png' width="200" />
+<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/2.png' width="200" />
+<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/3.png' width="200" />
 </p>
 
 

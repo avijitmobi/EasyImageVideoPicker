@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2FA9181C243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.38.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FA91819243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.38.png */; };
-		2FA9181D243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.22.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9181A243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.22.png */; };
-		2FA9181E243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.34.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9181B243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.34.png */; };
+		2FA9181C243AE0AC00895B0F /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FA91819243AE0AC00895B0F /* 3.png */; };
+		2FA9181D243AE0AC00895B0F /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9181A243AE0AC00895B0F /* 1.png */; };
+		2FA9181E243AE0AC00895B0F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9181B243AE0AC00895B0F /* 2.png */; };
 		337B98360D7EC42822E1F0A4 /* Pods_EasyImageVideoPicker_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 905B0CB611FD11A4318408AA /* Pods_EasyImageVideoPicker_Example.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
@@ -34,9 +34,9 @@
 		12388FA18DD978E70677F8DE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		12D95B9FCF89C967F32A458D /* EasyImageVideoPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EasyImageVideoPicker.podspec; path = ../EasyImageVideoPicker.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		20CA10EE0FF07178A427B914 /* Pods_EasyImageVideoPicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EasyImageVideoPicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2FA91819243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.38.png"; sourceTree = "<group>"; };
-		2FA9181A243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.22.png"; sourceTree = "<group>"; };
-		2FA9181B243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.34.png"; sourceTree = "<group>"; };
+		2FA91819243AE0AC00895B0F /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		2FA9181A243AE0AC00895B0F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		2FA9181B243AE0AC00895B0F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 		51DF1780F93CF73DBE350094 /* Pods-EasyImageVideoPicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EasyImageVideoPicker_Tests.debug.xcconfig"; path = "Target Support Files/Pods-EasyImageVideoPicker_Tests/Pods-EasyImageVideoPicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* EasyImageVideoPicker_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyImageVideoPicker_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -89,9 +89,9 @@
 		2FA91818243AE09300895B0F /* ScreenShots */ = {
 			isa = PBXGroup;
 			children = (
-				2FA9181A243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.22.png */,
-				2FA9181B243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.34.png */,
-				2FA91819243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.38.png */,
+				2FA9181A243AE0AC00895B0F /* 1.png */,
+				2FA9181B243AE0AC00895B0F /* 2.png */,
+				2FA91819243AE0AC00895B0F /* 3.png */,
 			);
 			path = ScreenShots;
 			sourceTree = "<group>";
@@ -267,9 +267,9 @@
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
-				2FA9181C243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.38.png in Resources */,
-				2FA9181D243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.22.png in Resources */,
-				2FA9181E243AE0AC00895B0F /* Simulator Screen Shot - iPhone XR - 2020-04-06 at 08.01.34.png in Resources */,
+				2FA9181C243AE0AC00895B0F /* 3.png in Resources */,
+				2FA9181D243AE0AC00895B0F /* 1.png in Resources */,
+				2FA9181E243AE0AC00895B0F /* 2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
