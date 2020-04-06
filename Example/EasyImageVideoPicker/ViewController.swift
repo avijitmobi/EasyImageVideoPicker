@@ -38,6 +38,10 @@ class ViewController: UIViewController {
 extension ViewController : EasyImageVideoPickerDelegate{
     
     func didSelect(image: UIImage?, video: URL?, fileName: String?) {
+        //For image picker
         img.image = image
+        //For video picker
+        print("This is my video name" + (fileName ?? ""))
+        print("This is my video url" + (video?.description ?? ""))
     }
 }

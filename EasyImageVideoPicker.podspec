@@ -25,7 +25,8 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Avijit Babu' => 'avijitmobi@gmail.com' }
-  s.source           = { :git => 'https://github.com/avijitmobi/EasyImageVideoPicker.git', :tag => '0.1.0' }
+  s.source           = { :git => 'https://github.com/avijitmobi/EasyImageVideoPicker.git', :tag => '#{s.version}'}
+  s.social_media_url = 'https://twitter.com/avijitmobis'
   s.swift_version = '5.0'
   s.ios.deployment_target  = '12.0'
   # s.platforms = {
