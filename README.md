@@ -1,7 +1,7 @@
 <p align="center">
-<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/1.png' width="250" height="650"/>
-<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/2.png' width="250" height="650"/>
-<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/3.png' width="250" height="650"/>
+<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/1.png' width="250" height="500"/>
+<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/2.png' width="250" height="500"/>
+<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/3.png' width="250" height="500"/>
 </p>
 
 
